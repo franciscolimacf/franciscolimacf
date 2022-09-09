@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/franciscolimacf">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=franciscolimacf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="48%" src="github-readme-stats.vercel.app/api/top-langs/?username=franciscolimacf&layout=compact&langs_count=19&theme=dark"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscolimacf&layout=compact&langs_count=19&theme=dark"/>
 </div>
 
 ### Skills:
