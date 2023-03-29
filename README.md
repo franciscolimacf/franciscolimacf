@@ -1,6 +1,6 @@
 ### Hi there! I'm Francisco Lima
 
-- 📖 Computer Engineering Student @ UFPB 8/10
+- 📖 Computer Engineering Student @ UFPB 9/10
 
 <br />
 
